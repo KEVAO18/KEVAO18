@@ -9,6 +9,8 @@ Skills: php, css, js, html, laravel,
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/KEVAO18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/kevao20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](http://www.kevao.tech/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEVAO18)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KEVAO18&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/KEVAO18)  
