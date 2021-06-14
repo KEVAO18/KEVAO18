@@ -14,7 +14,5 @@ Skills: php, css, js, html, laravel,
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEVAO18)](https://github.com/anuraghazra/github-readme-stats)|
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=KEVAO18&show_icons=true)|
 
-![GitHub metrics](https://metrics.lecoq.io/KEVAO18)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KEVAO18)  
 
