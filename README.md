@@ -13,7 +13,7 @@ $kevin = [
     'Facebook' => 'https://www.facebook.com/KEVAODv',
     'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
     'E-mail' => 'kevao.dev@gmail.com',
-    'whatsapp' => 3126899514
+    'whatsapp' => '+57 3126899514'
   ],
   'About Me' => [
     'Age' => 20,
