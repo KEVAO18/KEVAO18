@@ -1,6 +1,6 @@
 ## Hey, I'm Kevao
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100px" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px" />
 
 ```php
 <?php
