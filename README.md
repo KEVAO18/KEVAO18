@@ -8,12 +8,13 @@ $kevin = [
   'Skills' => ['php', 'html', 'js', 'css', 'jquery', 'GDScript', 'SQL', 'Bootstrap', 'MaterializeCSS', 'Laravel'],
   'Social Networks' => [
     'Website' => 'http://kevao.tech',
-    'My AppStore' => 'http://www.kevao.tech/home',
+    'My AppStore' => 'http://store.kevao.tech/',
     'Instagram' => 'https://www.instagram.com/kevao20',
     'Facebook' => 'https://www.facebook.com/KEVAODv',
     'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
     'E-mail' => 'kevao.dev@gmail.com',
-    'whatsapp' => '+57 3126899514'
+    'whatsapp' => '+57 3126899514',
+    'itch.io' => 'https://kevaodv.itch.io/'
   ],
   'About Me' => [
     'Age' => 21,
