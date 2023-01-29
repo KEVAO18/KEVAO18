@@ -1,12 +1,14 @@
 # Hey, I'm Kevao
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEVAO18&show_icons=true&theme=github_dark)
+
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px" />
 
 ```php
 <?php
 $kevin = [
   'Skills' => [
-    'Programming languages' => ['php', 'js', 'GDScript', 'c#'],
+    'Programming languages' => ['php', 'js', 'GDScript', 'c#', 'TypeScript'],
     'Libs' => ['jquery', 'Bootstrap', 'MaterializeCSS'],
     'Frameworks' => ['Laravel', 'Angular'],
     'Specific web technologics' => ['HTML', 'CSS', 'JSon'],
