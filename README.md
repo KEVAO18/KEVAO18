@@ -21,8 +21,7 @@ $kevin = [
     'Facebook' => 'https://www.facebook.com/KEVAODv',
     'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
     'itch.io' => 'https://kevaodv.itch.io/',
-    'E-mail' => 'kevao.dev@gmail.com',
-    'whatsapp' => '+57 3126899514'
+    'E-mail' => 'kevao.dev@gmail.com'
   ],
   'About Me' => [
     'Age' => 21,
