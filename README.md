@@ -18,7 +18,9 @@
   </p>
 </article>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px" />
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px" />
+</p>
 
 ```php
 <?php
