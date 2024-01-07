@@ -1,7 +1,7 @@
 # Hey, I'm Kevao
 
 <p align="center">
-  <img class="logo" src="https://kevaodv.tech/assets/media/favicon.png" width="150px" />
+  <img class="logo" src="https://raw.githubusercontent.com/KEVAO18/KEVAO18/main/banner.png" />
 </p>
 
 <article>
