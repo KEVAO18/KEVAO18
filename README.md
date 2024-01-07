@@ -12,10 +12,6 @@
   <p>
     Organized and with multitasking abilities, I have experience in project programming, design enhancement, and code verification. Proficient in assertive communication and had great adaptability to social environments.
   </p>
-  
-  <p>
-    During my time in my current job, I've increased inventory management efficiency by 36%, making it much simpler for a single person to handle a large number of products.
-  </p>
 </article>
 
 <p align="center">
