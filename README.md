@@ -45,7 +45,4 @@ $kevin = [
 ];
 ?>
 ```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEVAO18&show_icons=true&theme=github_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEVAO18)](https://github.com/anuraghazra/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=784b7b0923c6a0364cbdc7499837fe55)](https://gist.github.com/KEVAO18/784b7b0923c6a0364cbdc7499837fe55)
