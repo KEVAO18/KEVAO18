@@ -6,7 +6,7 @@
 
 <article>
   <p>
-    Web developer with 4 years of experience, known for being innovative and proactive. I have the skills to craft elegant and cutting-edge web pages, along with designing applications for demanding clients.
+    Web developer with 5 years of experience, known for being innovative and proactive. I have the skills to craft elegant and cutting-edge web pages, along with designing applications for demanding clients.
   </p>
   
   <p>
