@@ -13,9 +13,13 @@
     Organized and with multitasking abilities, I have experience in project programming, design enhancement, and code verification. Proficient in assertive communication and had great adaptability to social environments.
   </p>
 </article>
-
+<style>
+  .r{
+    border-radius: 30px;
+  }
+</style>
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px" />
+  <img class="r" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px" />
 </p>
 
 ## 🔧 Habilidades
