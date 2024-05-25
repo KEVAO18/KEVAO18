@@ -17,6 +17,25 @@
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250px" />
 </p>
 
+```php
+<?php
+$kevin = [
+  'Social Networks' => [
+    'Website' => 'https://kevaodv.tech/',
+    'Instagram' => 'https://www.instagram.com/kevao20',
+    'Facebook' => 'https://www.facebook.com/KEVAODv',
+    'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
+    'itch.io' => 'https://kevaodv.itch.io/',
+    'E-mail' => 'contacto@kevaodv.tech'
+  ],
+  'About Me' => [
+    'Age' => 23,
+    'Hobbies' => ['Program', 'Read', 'Draw', 'Gaming']
+  ]
+];
+?>
+```
+
 ## 🔧 Habilidades
 
 ### Lenguajes de Programación
@@ -45,25 +64,6 @@
 ### Idiomas
 ![Español](https://img.shields.io/badge/Español-Nativo-brightgreen)
 ![Inglés](https://img.shields.io/badge/Inglés-Intermedio-yellow)
-
-```php
-<?php
-$kevin = [
-  'Social Networks' => [
-    'Website' => 'https://kevaodv.tech/',
-    'Instagram' => 'https://www.instagram.com/kevao20',
-    'Facebook' => 'https://www.facebook.com/KEVAODv',
-    'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
-    'itch.io' => 'https://kevaodv.itch.io/',
-    'E-mail' => 'contacto@kevaodv.tech'
-  ],
-  'About Me' => [
-    'Age' => 23,
-    'Hobbies' => ['Program', 'Read', 'Draw', 'Gaming']
-  ]
-];
-?>
-```
 
 ## 🎓 Educación
 
