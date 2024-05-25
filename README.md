@@ -63,20 +63,7 @@
 
 ## 🌐 Conéctate conmigo
 
-```php
-<?php
-$kevin = [
-  'Social Networks' => [
-    'Website' => 'https://kevaodv.tech/',
-    'Instagram' => 'https://www.instagram.com/kevao20',
-    'Facebook' => 'https://www.facebook.com/KEVAODv',
-    'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
-    'itch.io' => 'https://kevaodv.itch.io/',
-    'E-mail' => 'contacto@kevaodv.tech'
-  ]
-];
-?>
-```
+Para más información sobre mis redes sociales y contacto, visita [kevaodv](https://allmylinks.com/kevaodv).
 
 ## 🌟 Gist
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=784b7b0923c6a0364cbdc7499837fe55)](https://gist.github.com/KEVAO18/784b7b0923c6a0364cbdc7499837fe55)
