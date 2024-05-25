@@ -17,25 +17,6 @@
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250px" />
 </p>
 
-```php
-<?php
-$kevin = [
-  'Social Networks' => [
-    'Website' => 'https://kevaodv.tech/',
-    'Instagram' => 'https://www.instagram.com/kevao20',
-    'Facebook' => 'https://www.facebook.com/KEVAODv',
-    'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
-    'itch.io' => 'https://kevaodv.itch.io/',
-    'E-mail' => 'contacto@kevaodv.tech'
-  ],
-  'About Me' => [
-    'Age' => 23,
-    'Hobbies' => ['Program', 'Read', 'Draw', 'Gaming']
-  ]
-];
-?>
-```
-
 ## 🔧 Habilidades
 
 ### Lenguajes de Programación
@@ -79,6 +60,27 @@ $kevin = [
 - Fundamentos de HTML, SoloLearn (2019)
 - Fundamentos de JavaScript, SoloLearn (2019)
 - Introducción a la Programación de Dispositivos Móviles, Universidad de Medellín (2019)
+
+## 🌐 Conéctate conmigo
+
+```php
+<?php
+$kevin = [
+  'Social Networks' => [
+    'Website' => 'https://kevaodv.tech/',
+    'Instagram' => 'https://www.instagram.com/kevao20',
+    'Facebook' => 'https://www.facebook.com/KEVAODv',
+    'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
+    'itch.io' => 'https://kevaodv.itch.io/',
+    'E-mail' => 'contacto@kevaodv.tech'
+  ],
+  'About Me' => [
+    'Age' => 23,
+    'Hobbies' => ['Program', 'Read', 'Draw', 'Gaming']
+  ]
+];
+?>
+```
 
 ## 🌟 Gist
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=784b7b0923c6a0364cbdc7499837fe55)](https://gist.github.com/KEVAO18/784b7b0923c6a0364cbdc7499837fe55)
