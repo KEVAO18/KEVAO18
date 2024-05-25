@@ -73,10 +73,6 @@ $kevin = [
     'LinkedIn' => 'https://www.linkedin.com/in/kevaotech/',
     'itch.io' => 'https://kevaodv.itch.io/',
     'E-mail' => 'contacto@kevaodv.tech'
-  ],
-  'About Me' => [
-    'Age' => 23,
-    'Hobbies' => ['Program', 'Read', 'Draw', 'Gaming']
   ]
 ];
 ?>
