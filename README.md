@@ -1,20 +1,28 @@
 # Hey, I'm Kevao
 
-<p align="center">
-  <img class="logo" src="https://raw.githubusercontent.com/KEVAO18/KEVAO18/main/banner.png" />
-</p>
+[![My Banner](https://raw.githubusercontent.com/KEVAO18/KEVAO18/main/banner.png "Kevao Dv.")](https://www.kevao.tech/)
 
-<article>
-  <p>
-    Web developer with experience, known for being innovative and proactive. I have the skills to craft elegant and cutting-edge web pages, along with designing websites for demanding clients.
-  </p>
-  
-  <p>
-    Organized and with multitasking abilities, I have experience in project programming, design enhancement, and code verification. Proficient in assertive communication and had great adaptability to social environments.
-  </p>
-</article>
+## 👋 Sobre mí
+
+Soy un desarrollador web **backend y frontend**, apasionado por la programación, caracterizado por ser **proactivo**, **innovador** y con una gran **capacidad de adaptación**. He trabajado en diversos proyectos personales que me han permitido adquirir experiencia práctica.
+
+Entre mis desarrollos más destacados se encuentran un **sistema completo de facturación** y varias **páginas web**, creadas con atención al detalle y enfoque en la experiencia del usuario. Me considero una persona con habilidades para **gestionar múltiples tareas**, **mejorar diseños** y **mantener el código limpio y funcional**.
+
+Disfruto aprender nuevas tecnologías, resolver problemas con lógica y creatividad, y colaborar en proyectos que representen un verdadero desafío. Siempre estoy en búsqueda de oportunidades para **crecer profesionalmente** y llevar mis habilidades al siguiente nivel.
+
+---
+
+## 👋 About Me
+
+I’m a **backend and frontend web developer** passionate about programming, known for being **proactive**, **innovative**, and highly **adaptable**. I’ve worked on various personal projects that have allowed me to gain hands-on experience.
+
+Among my most notable developments are a **complete invoicing system** and several **websites** built with attention to detail and a strong focus on user experience. I consider myself skilled at **managing multiple tasks**, **improving designs**, and **maintaining clean, functional code**.
+
+I enjoy learning new technologies, solving problems with logic and creativity, and collaborating on projects that present real challenges. I’m always looking for opportunities to **grow professionally** and take my skills to the next level.
+
+<br>
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250px" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200px" />
 </p>
 
 ## 🔧 Habilidades
@@ -60,10 +68,3 @@
 - Fundamentos de HTML, SoloLearn (2019)
 - Fundamentos de JavaScript, SoloLearn (2019)
 - Introducción a la Programación de Dispositivos Móviles, Universidad de Medellín (2019)
-
-## 🌐 Conéctate conmigo
-
-Para más información sobre mis redes sociales y contacto, visita [kevaodv](https://allmylinks.com/kevaodv).
-
-## 🌟 Gist
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=784b7b0923c6a0364cbdc7499837fe55)](https://gist.github.com/KEVAO18/784b7b0923c6a0364cbdc7499837fe55)
