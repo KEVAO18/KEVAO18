@@ -6,7 +6,7 @@
 
 <article>
   <p>
-    Web developer with experience, known for being innovative and proactive. I have the skills to craft elegant and cutting-edge web pages, along with designing applications for demanding clients.
+    Web developer with experience, known for being innovative and proactive. I have the skills to craft elegant and cutting-edge web pages, along with designing websites for demanding clients.
   </p>
   
   <p>
