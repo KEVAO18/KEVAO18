@@ -48,7 +48,7 @@
 
 ## 🎓 Educación
 
-- **Desarrollo de Software, ITM** (2022 - Actualmente)
+- **Desarrollo de Software, ITM** (Actualmente)
 - **Desarrollador de Videojuegos, Ubicua Technology** (2021)
 - **Bachiller en Media Técnica Informática, INEM “José Félix De Restrepo”** (2019)
 
